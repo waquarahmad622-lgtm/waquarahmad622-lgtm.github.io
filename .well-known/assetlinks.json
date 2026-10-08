@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.waquarahmad622_lgtm.kgnfashionzone",
+      "sha256_cert_fingerprints": [
+        "55:10:B9:E6:28:37:13:36:B6:9F:22:19:32:26:04:C2:ED:2D:9D:98:02:F3:80:B9:FB:F0:24:EC:9A:90:A5:C8"
+      ]
+    }
+  }
+]
